@@ -1,0 +1,17 @@
+{
+  "name": "steg2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "david krejci",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "get-pixels": "^3.3.2",
+    "readline-sync": "^1.4.10",
+    "save-pixels": "^2.3.4"
+  }
+}
